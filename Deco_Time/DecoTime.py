@@ -1,3 +1,7 @@
+# Proyecto: Deco_Time
+# Descripción: Decorador para medir el tiempo de ejecución de una función que suma dos números.
+# Versión: 1.0
+
 import time
 
 a = int(input("Ingrese el primer número: "))
