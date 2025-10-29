@@ -1,3 +1,8 @@
+# Proyecto: Deco_Time
+# Descripción: Decorador para medir el tiempo de ejecución de una función, programa completo con suma y producto de un numero N.
+# Idioma: Español
+# Versión: 4.0
+
 import time
 import sys
 sys.set_int_max_str_digits(0)
