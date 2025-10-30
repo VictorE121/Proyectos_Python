@@ -5,3 +5,7 @@ En este repositorio subire proyectos de python que me vallan proporcionando, par
 ## Carpeta_Deco_Time
 
 En esta encontraran proyectos relacionados a el tiempo de ejecucion de funciones, con un decorador.
+
+### Links
+
+https://www.lambdatest.com/blog/automate-whatsapp-messages-using-python/
