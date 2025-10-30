@@ -10,6 +10,6 @@ options.add_experimental_option("excludeSwitches", ["enable-automation"])
 options.add_experimental_option("useAutomationExtension",False)
 driver = webdriver.Chrome(options=options)
 driver.maximize_window()
-driver.get('https://web.whatsapp.com')
+driver.get('https://www.github.com')
 
 time.sleep(20)
